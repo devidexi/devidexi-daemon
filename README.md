@@ -1,0 +1,2 @@
+# devidexi-daemon
+main daemon
